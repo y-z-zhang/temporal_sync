@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/341030779.svg)](https://zenodo.org/badge/latestdoi/341030779)
 
-This repository is part of the paper: Y. Zhang and S. H. Strogatz, _Designing temporal networks that synchronize under resource constraints_.
+This repository is part of the paper: Y. Zhang and S. H. Strogatz, _Designing temporal networks that synchronize under resource constraints_, [Nat. Commun. 12 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9).
 
 The repository includes:
 1. `direct_simulation.m`
